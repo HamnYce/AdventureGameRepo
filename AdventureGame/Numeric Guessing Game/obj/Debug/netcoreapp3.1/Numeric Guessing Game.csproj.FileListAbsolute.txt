@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.exe
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.deps.json
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.dll
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\bin\Debug\netcoreapp3.1\Numeric Guessing Game.pdb
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.dll
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.pdb
+C:\Users\hamad\source\repos\AdventureGame\Numeric Guessing Game\obj\Debug\netcoreapp3.1\Numeric Guessing Game.genruntimeconfig.cache

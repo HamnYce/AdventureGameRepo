@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.exe
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.deps.json
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\hamad\source\repos\AdventureGame\Temperature\bin\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.dll
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.pdb
+C:\Users\hamad\source\repos\AdventureGame\Temperature\obj\Debug\netcoreapp3.1\Temperature.genruntimeconfig.cache

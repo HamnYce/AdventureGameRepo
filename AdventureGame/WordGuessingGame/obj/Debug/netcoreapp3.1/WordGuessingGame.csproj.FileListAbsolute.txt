@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.exe
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.deps.json
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.dll
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\bin\Debug\netcoreapp3.1\WordGuessingGame.pdb
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.dll
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.pdb
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.genruntimeconfig.cache
+C:\Users\hamad\source\repos\AdventureGame\WordGuessingGame\obj\Debug\netcoreapp3.1\WordGuessingGame.csprojAssemblyReference.cache

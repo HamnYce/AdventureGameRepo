@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.exe
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.deps.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.dll
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Luck.pdb
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.dll
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.pdb
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Luck.genruntimeconfig.cache

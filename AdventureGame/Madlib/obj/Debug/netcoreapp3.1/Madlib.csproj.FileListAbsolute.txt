@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.AssemblyInfo.cs
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.exe
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.deps.json
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.runtimeconfig.json
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.dll
+C:\Users\hamad\source\repos\Madlib\Madlib\bin\Debug\netcoreapp3.1\Madlib.pdb
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.dll
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.pdb
+C:\Users\hamad\source\repos\Madlib\Madlib\obj\Debug\netcoreapp3.1\Madlib.genruntimeconfig.cache

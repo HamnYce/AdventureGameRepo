@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.exe
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.deps.json
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.dll
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\bin\Debug\netcoreapp3.1\RandomCharStats.pdb
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.dll
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.pdb
+C:\Users\hamad\source\repos\AdventureGame\RandomCharStats\obj\Debug\netcoreapp3.1\RandomCharStats.genruntimeconfig.cache

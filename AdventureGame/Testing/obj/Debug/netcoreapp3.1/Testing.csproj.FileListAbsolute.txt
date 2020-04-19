@@ -1,0 +1,13 @@
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\hamad\source\repos\AdventureGame\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.csprojAssemblyReference.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\hamad\source\repos\AdventureGame\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
