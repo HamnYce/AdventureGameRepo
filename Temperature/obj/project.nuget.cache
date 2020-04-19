@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r2FzmXJ+NAjdTrsPrlIsWPYMSVvZWNNgKmMVtNxoGe/H2pAx4z4xJ8hymH8vVfL9P5KdlisCcvCEQX8HJENxTw==",
+  "dgSpecHash": "9/oHl2ZaQWdsUV7V7T+NoA1YOfWwZgAR27QDiHJjC6w/x9wY24zSjqjQ6HN2zc7TeJsNS/L4o6h3gvcofEWIQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Temperature\\Temperature.csproj",
+  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\Temperature\\Temperature.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

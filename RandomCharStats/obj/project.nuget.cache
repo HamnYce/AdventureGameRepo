@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fth9sEsgz/HEua4lJ8KW8wYysAoP6XSo/lKKQ9T6RWZBmIheeZhg31eeDxUbowW1N4aoyC+OeYD3NkLxC28GUw==",
+  "dgSpecHash": "hDiGTkWF3ZGT6ya5oFCgjvR1hq0isgmbFZHmoN/cfdf/EU5alLqaAsD9lgX1uIlfd0JUhWhomuEVNhNdr1xiRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\RandomCharStats\\RandomCharStats.csproj",
+  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\RandomCharStats\\RandomCharStats.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

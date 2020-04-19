@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {}
+    "C:\\Users\\hamad\\source\\repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {
+    "C:\\Users\\hamad\\source\\repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
+        "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
         "projectName": "Numeric Guessing Game",
-        "projectPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
+        "projectPath": "C:\\Users\\hamad\\source\\repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
         "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Numeric Guessing Game\\obj\\",
+        "outputPath": "C:\\Users\\hamad\\source\\repos\\Numeric Guessing Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",

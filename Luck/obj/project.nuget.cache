@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Os/2dhthi9dnlxTEg0SHtCUiMwgt9R8RvAJkCAg7iiAzGfJq3FOtkQbcW7w/H7c4A9gULhQ1MWok+8MvdA1xZw==",
+  "dgSpecHash": "DRcIq05iyaqieoCT3TVNP9BIJ4XJeEvZi5GMau3VeBr1roxFdzO6a8gYV9653VixugDfJcRzQ1OCr3HP8c+pGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\Testing\\Luck.csproj",
+  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\Luck\\Luck.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

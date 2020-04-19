@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\WordGuessingGame\\WordGuessingGame.csproj",
+      "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\WordGuessingGame\\WordGuessingGame.csproj",
       "projectName": "WordGuessingGame",
-      "projectPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\WordGuessingGame\\WordGuessingGame.csproj",
+      "projectPath": "C:\\Users\\hamad\\source\\repos\\WordGuessingGame\\WordGuessingGame.csproj",
       "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\WordGuessingGame\\obj\\",
+      "outputPath": "C:\\Users\\hamad\\source\\repos\\WordGuessingGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
