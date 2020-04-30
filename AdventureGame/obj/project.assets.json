@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\AdventureGame.csproj",
+      "projectUniqueName": "C:\\Users\\hamad\\source\\Adventure Game Repos\\AdventureGame\\AdventureGame.csproj",
       "projectName": "AdventureGame",
-      "projectPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\AdventureGame.csproj",
+      "projectPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\AdventureGame\\AdventureGame.csproj",
       "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hamad\\source\\repos\\AdventureGame\\obj\\",
+      "outputPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\AdventureGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -44,7 +44,7 @@ namespace RandomCharStats
         {
             //creating string array with the pool of possible names, eye color etc.
             string[] nameList = new String[] { "Andy", "Abel", "Alan", "George", "Samuel", "Dan" };
-            //`
+            //uses getRandomNumber function with the max number set as size of the array
             return nameList[getRandomNumber(nameList.Length)];
         }
 
@@ -53,7 +53,7 @@ namespace RandomCharStats
             string[] colorList = new String[] { "blue", "green", "grey", "brown", "hazel" };
             return colorList[getRandomNumber(colorList.Length)];
         }
-
+ 
         private string getHairColor()
         {
             string[] hairColorList = new String[] { "blue", "green", "grey", "brown", "hazel" };

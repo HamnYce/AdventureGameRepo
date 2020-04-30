@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamad\\source\\repos\\Luck\\Luck.csproj": {}
+    "C:\\Users\\hamad\\source\\Adventure Game Repos\\Luck\\Luck.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamad\\source\\repos\\Luck\\Luck.csproj": {
+    "C:\\Users\\hamad\\source\\Adventure Game Repos\\Luck\\Luck.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamad\\source\\repos\\Luck\\Luck.csproj",
+        "projectUniqueName": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Luck\\Luck.csproj",
         "projectName": "Luck",
-        "projectPath": "C:\\Users\\hamad\\source\\repos\\Luck\\Luck.csproj",
+        "projectPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Luck\\Luck.csproj",
         "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamad\\source\\repos\\Luck\\obj\\",
+        "outputPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Luck\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,10 +26,10 @@ namespace WordGuessingGame
 
             Console.WriteLine("I see three words in my crystal ball.\nCan you guess which is the real one?");
 
-            //for loop, initializing i as the counter; keeping the loop going for the length; incrementing the loop
+            //for loop, initializing i as the counter; keeping the loop going for the length of array - 1; incrementation of loop
              for (int i = 0; i < words.Length; i++)
             {
-            //'loop output' to console window all words except last 
+            //'loop' output to console window all words except last 
                 if (i == (words.Length - 1))
                     Console.Write("or " + words[i] + "? ");
                 else

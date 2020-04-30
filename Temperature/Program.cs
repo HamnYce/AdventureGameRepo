@@ -9,9 +9,10 @@ namespace Temperature
             int temperature = 0;
             Console.WriteLine("pleasrue enter temperature :)");
 
+            //Converting string to integer, from user input (ReadLine)
             temperature = Convert.ToInt16(Console.ReadLine());
 
-
+            
             if (temperature <= 0)
             {
                 Console.WriteLine("Water will freeze; the freezing point of water is 0°C.");

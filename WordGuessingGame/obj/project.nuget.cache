@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cdg29y0MHJ6PTlMuTkPvUqJPfoZ0pfsaQAFw0TDOTrIoz+riFDeoFhh2HTql5xN7LMJ/1/pYNwZ3esaWbDk+6g==",
+  "dgSpecHash": "tCtLfw43zyPvCD80CJstuZcF7+9idEjtnK+i1WO6k7I6fiM37u0n4AElTMjcM5sioLSXsMlAxArW2MkrlPWVLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamad\\source\\repos\\WordGuessingGame\\WordGuessingGame.csproj",
+  "projectFilePath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\WordGuessingGame\\WordGuessingGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
