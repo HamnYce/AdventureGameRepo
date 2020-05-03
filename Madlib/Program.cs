@@ -58,9 +58,10 @@ namespace Game
         static void GetWords()
         {
             //ask player to enter words
-
+            //for loop, initing i as 0; while i is < length of word; increment i
             for (int i = 0; i < Words.Length; i++)
-
+            //asks user for input and it cycles through the propmts from the array, by using the counter as the array element to induce the 'cycle'
+            //the same is done for the storing of the user input by placing i as the array counter
             {
                 Console.Write("Please enter a/an " + Prompts[i] + " :");
                 Words[i] = Console.ReadLine();
@@ -72,10 +73,10 @@ namespace Game
 
         static void WriteStory()
         {
-            //Concatenate strings to make a title
+            //Concatenate (capitalize the first letter of each word i.e. Title Case) strings to make a title 
             GameTitle = "The " + Words[1] + " " + Words[2] + " " + Words[0];
 
-            //So we can capitalize the words in our title
+            //Capitalize the words in our title
             TextInfo TitleCase = new CultureInfo("en-US", false).TextInfo;
             GameTitle = TitleCase.ToTitleCase(GameTitle);
 
@@ -96,8 +97,9 @@ namespace Game
         }
 
         static void End()
+        //ASCII Drawing
         {
-            String Flower = @"────────────────────▛▀▜▖─▄▛▀▜▖
+            String cuteSeal = @"────────────────────▛▀▜▖─▄▛▀▜▖
 ────────────────────▜▖─▝▀▘──▝▌
 ─────▄▛▀▀▜▄▄▖────────▜▄─────▐▘
 ──▗▟▀▘──▄▄──▀▖─────▄▟▀▀────▚▛─
@@ -113,9 +115,10 @@ namespace Game
 ──────▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒──
 ──────────▒▒▒▒▒▒▒▒▒▒▒▒────────
 ";
+            //change backgroundcolor to cyan and the letter colour to magenta
             Console.BackgroundColor = ConsoleColor.Cyan;
             Console.ForegroundColor = ConsoleColor.Magenta;
-            Console.WriteLine(Flower);
+            Console.WriteLine(cuteSeal);
             Console.ResetColor();
 
 

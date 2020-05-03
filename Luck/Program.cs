@@ -5,6 +5,8 @@ namespace ReturnValue
     class Character
     {
         static int luck = 5;
+        
+        //initing new instance of random method called randomNumber 
         static Random randomNumber = new Random();
         public static int points = 0;
 
