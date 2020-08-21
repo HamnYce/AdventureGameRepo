@@ -15,13 +15,12 @@ namespace AdventureGame
     "You pick the Flashlight",
     "You pick the Umbrella",
     "You continue walking down the tunnel",
-    //finish up this part of the story 21st of August 2020
-    "You decide to use the flashlight, a snake writhes in shock from the sudden brightness and slithers off into the darkness.\nslightly flabbergasted, you keep walking and you see something shining in the distance, you pick it up.\nAcquired coin!",
-    "As you walk with your umbrella you see a critter. You open it in shock ready for the critter to jump over it and crawl around your body ",
-    "Transition to next part of story "
+    "You decide to use the flashlight to see better in this dusty old gray cave, a snake writhes in shock from the sudden brightness and slithers off into the darkness.\nslightly flabbergasted, you keep walking and you see something shining in the distance, you pick it up.\nAcquired coin!",
+    "As you walk with your umbrella you see a critter.\nYou open it in shock, ready for the critter to jump over it and crawl around your body, but in your hastiness it flew away from the umbrellas explosive force!\nGoodjob, you avoided a nasty insect! I hope...",
+    "You shudder from what just happened and decided it's best to keep walking and not get held up for too long in one place. You never know what else might pop up after that.\n You look ahead and see a shadow you walked towards it..."
                         };
         static string[] PartTwo = {
-    "You enter another area. There is a girl standing by, looking at you. \nin her hand you see 2 blown up balloons\n\"Hey you, you wanna buy a balloon off of me? It'll be worth your coin I promise\", she says with a growing grin on her face\nyou see her teeth are as sharp as nails with an uncanny reddish brown tint to them...\nshe's aware that you noticed her teeth as you see her grin grow ever bigger with her round hazel eyes and pink ponytails\nYou decide that you want a balloon, you look at her hands and see a blue dog balloon in the one hand and a red cat balloon in the other which will it be?\nMake a choice. C)The dog balloon D)The cat balloon",
+    "You enter another area. There is a lamp with an odd looking little girl, staring at you.\nIn her hand you see two blown up balloons\n\"Hey you, you wanna buy a balloon off of me? It'll be worth your coin I promise\", she says with a growing grin on her face\nyou see her teeth are as sharp as nails with an uncanny reddish brown tint to them...\nshe's aware that you noticed her teeth as you see her grin grow ever bigger with her round hazel eyes and pink ponytails\nYou decide that you want a balloon, you look at her hands and see a blue dog balloon in the one hand and a red cat balloon in the other which will it be?\nMake a choice. C)The dog balloon D)The cat balloon",
     "You take the blue dog balloon then realise you don't have any money, the girls smile turns to a frown. she looks down at the floor and her face becomes dark.\n" +
                 "\"Okay mister you can have the balloon for free\"\n, she mumbles with almast a tinge of anger",
     "you take the red cat balloon. You check in your back pocket but realise you woke up here with nothing but a lighter... you offer it to the girl\n" +
