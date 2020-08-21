@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamad\\source\\Adventure Game Repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {}
+    "/Users/hamadbouabbas/Desktop/Git/AdventureGameRepo/Numeric Guessing Game/Numeric Guessing Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamad\\source\\Adventure Game Repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj": {
+    "/Users/hamadbouabbas/Desktop/Git/AdventureGameRepo/Numeric Guessing Game/Numeric Guessing Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
+        "projectUniqueName": "/Users/hamadbouabbas/Desktop/Git/AdventureGameRepo/Numeric Guessing Game/Numeric Guessing Game.csproj",
         "projectName": "Numeric Guessing Game",
-        "projectPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Numeric Guessing Game\\Numeric Guessing Game.csproj",
-        "packagesPath": "C:\\Users\\hamad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamad\\source\\Adventure Game Repos\\Numeric Guessing Game\\obj\\",
+        "projectPath": "/Users/hamadbouabbas/Desktop/Git/AdventureGameRepo/Numeric Guessing Game/Numeric Guessing Game.csproj",
+        "packagesPath": "/Users/hamadbouabbas/.nuget/packages/",
+        "outputPath": "/Users/hamadbouabbas/Desktop/Git/AdventureGameRepo/Numeric Guessing Game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/hamadbouabbas/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,6 +2,7 @@
 using System.Globalization;
 using System.Collections.Generic;
 
+
 namespace AdventureGame
 {
     public static class Game
@@ -10,32 +11,28 @@ namespace AdventureGame
         static String CharacterName = "John Doe";
 
         static string[] PartOne = {
-    "You start to see a dark silhouette in the distance. as you get closer you see an old man standing next to a cart\n" +
-                "it appears to contain junk.\n" +
-                "\"Oi\" he says, \"I sense you have something I need\"\n" +
-                "you look at him confused\n" +
-                "\"would you happen to have a pointy object on you\"" +
-                "your expression changes\n" +
-                "\"I'll trade with ye from my pile of treasure here\", he says attempting to bargain\n" +
-                "you look in his cart, out of the \'treasure\' you see a flashlight and an umbrella\n" +
-                "Which do you pick A)The flashlight or B)The umbrella",
+    "You start to see a dark silhouette in the distance. as you get closer you see an old man standing next to a cart\nit appears to contain junk.\n\"Oi\" he says, \"I sense you have something I need\"\nyou look at him confused\n\"would you happen to have a pointy object on you\"your expression changes\n\"I'll trade with ye from my pile of treasure here\", he says attempting to bargain\nyou look in his cart, out of the \'treasure\' you see a flashlight and an umbrella\nWhich do you pick A)The flashlight or B)The umbrella",
     "You pick the Flashlight",
     "You pick the Umbrella",
     "You continue walking down the tunnel",
-    "You decide to use the flashlight, a writhes in shock from the sudden brightness and scitters off into the darkness.\n" +
-                "you keep walking and you see something shining in the distance, you pick it up." +
-                "Acquired coin!",
-    "As you walk with your umbrella sheathed you see a critter. You open ",
+    //finish up this part of the story 21st of August 2020
+    "You decide to use the flashlight, a snake writhes in shock from the sudden brightness and slithers off into the darkness.\nslightly flabbergasted, you keep walking and you see something shining in the distance, you pick it up.\nAcquired coin!",
+    "As you walk with your umbrella you see a critter. You open it in shock ready for the critter to jump over it and crawl around your body ",
     "Transition to next part of story "
                         };
         static string[] PartTwo = {
-    "Description of story ... and the choice C or D",
-    "what happens if C is chosen",
-    "what happens if D is chosen",
-    "more story c/d",
-    "more about what happens if C is chosen",
-    "more about what happens if D is chosen",
-    "Transition to next part of story "
+    "You enter another area. There is a girl standing by, looking at you. \nin her hand you see 2 blown up balloons\n\"Hey you, you wanna buy a balloon off of me? It'll be worth your coin I promise\", she says with a growing grin on her face\nyou see her teeth are as sharp as nails with an uncanny reddish brown tint to them...\nshe's aware that you noticed her teeth as you see her grin grow ever bigger with her round hazel eyes and pink ponytails\nYou decide that you want a balloon, you look at her hands and see a blue dog balloon in the one hand and a red cat balloon in the other which will it be?\nMake a choice. C)The dog balloon D)The cat balloon",
+    "You take the blue dog balloon then realise you don't have any money, the girls smile turns to a frown. she looks down at the floor and her face becomes dark.\n" +
+                "\"Okay mister you can have the balloon for free\"\n, she mumbles with almast a tinge of anger",
+    "you take the red cat balloon. You check in your back pocket but realise you woke up here with nothing but a lighter... you offer it to the girl\n" +
+                "\"Okay mister you can have the balloon for free\"\n, she mumbles with an almost resentful tone. She looks down at the floor",
+    "Then you see a tear go down her face and she disappears with a blip of light and a gust of wind.\nWow you think to yourself, there're all kinds of beings in this world!" +
+                "you continue walking through the tunnels with your new found friend (don't forget to give them a name ^^).\n" +
+                "as you enter a new area you feel the balloon vibrating and at the same time you here a rustling sound in front of you...\n" +
+                "it's getting closer!",
+    "The squeeky blue balloon begins vibrating so hard you let go of it. As it's falling to the floor it begins to morph into wolf with a coat of gold, with paws that have nails made ofsilver and a cheeky wide smile\n\"I see you've summoned me master\", he says with confidence, almost cocky\nHe's looking forward yet I hear his voice clearly in my head.. wait! his VOICE?!?\nA snake pops out to bite you but before it has a chance to get to you the wolf bites it and swallows it whole!",
+    "The squeeky red balloon begins shaking so hard you let go of it. As it's floating to the floor it begins to morph into tiger with a coat of jade, with paws that have nails made of diamond and an elegant look in it's eye \n\"I see you've summoned me\", she says with grace, almost divine\nSHe's looking forward yet I hear her voice clearly in my head.. wait! her VOICE?!?\nA snake pops out to bite you but before it has a chance to get to you the tiger bites it's neck and let's it drop to the floor. Bleh!",
+    "The beast morphs back into a balloon on the floor. you think to yourself what a wild scenario that was.\nYou continue walking to see what more lies ahead.\nThis time, with a companion!"
                         };
         static string[] PartThree = {
     "Description of story ... and the choice E or F",
@@ -121,6 +118,9 @@ namespace AdventureGame
                 }
                 //6
                 Console.WriteLine(PartOne[6]);
+                        Console.WriteLine("Press enter to continue");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                         
                     case 2:
@@ -163,7 +163,7 @@ namespace AdventureGame
                         //6
                         Console.WriteLine(PartTwo[6]);
                         break;
-
+                        
                     case 3:
                         i = 0;
 
