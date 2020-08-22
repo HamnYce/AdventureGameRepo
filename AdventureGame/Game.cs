@@ -31,16 +31,16 @@ namespace AdventureGame
                 "it's getting closer!",
     "The squeeky blue balloon begins vibrating so hard you let go of it. As it's falling to the floor it begins to morph into wolf with a coat of gold, with paws that have nails made ofsilver and a cheeky wide smile\n\"I see you've summoned me master\", he says with confidence, almost cocky\nHe's looking forward yet I hear his voice clearly in my head.. wait! his VOICE?!?\nA snake pops out to bite you but before it has a chance to get to you the wolf bites it and swallows it whole!",
     "The squeeky red balloon begins shaking so hard you let go of it. As it's floating to the floor it begins to morph into tiger with a coat of jade, with paws that have nails made of diamond and an elegant look in it's eye \n\"I see you've summoned me\", she says with grace, almost divine\nSHe's looking forward yet I hear her voice clearly in my head.. wait! her VOICE?!?\nA snake pops out to bite you but before it has a chance to get to you the tiger bites it's neck and let's it drop to the floor. Bleh!",
-    "The beast morphs back into a balloon on the floor. you think to yourself what a wild scenario that was.\nYou continue walking to see what more lies ahead.\nThis time, with a companion!"
+    "The beast morphs back into a balloon on the floor. you think to yourself what a wild scenario that was.\nYou continue walking to see what more lies ahead.\nThis time with a companion as hollow as you!"
                         };
         static string[] PartThree = {
-    "Description of story ... and the choice E or F",
-    "what happens if E is chosen",
-    "You have acquired The Key!",
-    "more story e/f",
-    "more about what happens if E is chosen",
-    "more about what happens if F is chosen",
-    "Transition to next part of story "
+    "You keep walking through the darkness. You approach a new area. This time a circular dome like cavern.\nYou look around and see lamps on the wall, illuminating the area with an orange hue. The same colour as the flames inside them.\nYou can feel the flame radiant light penetrate your skin and the warmth that it creates. Wow you think.\nYou continue walking through to see what's on the other side you cross the middle and the ground starts splitting up, the whole cave is rumbling!\nYou see a ray of light shine from the top of the dome. You look around to make your move.\nWill you E)Go up towards the light? F)Go down towards the darkness?",
+    "You've chosen to see what lies beyond the darkness of this cavern.\nYou jump on the opposing platform, rising to the top towards the light! You wonder what you will see beyond the confines of this cave system.",
+    "You stay where you, even taking a step back towards the descending platform. You look around to the crumblin, and think to yourself, \"what might lie deeper within these walls.\"\nYou feel this weird sensation in your body like a knot in your chest, fear but also this other feeling...\nExhilaration!",
+    "As your transitioning to the nexxt part of your adventure, or perhaps your end. You think back to the events that occured not to long ago. \"what's happening, is this all a dream or is this real life?\"\n maybe your answers lie beyond or maybe more confusion awaits.\nYou have no way of knowing, but you don't need to know.\nAll that matters is what happens in the moment and how you respond to it.\nYou here a thunk! That platform seems to have stopped, you've arrived. You take a step off and look around.",
+    "It's grass! and... animals! you think to yourself, \"I think I've made it out!\"You start walking towards a tree to rest - haven't gotten much of that recently - with each step you hear the crunching of the grass and the rustling of the leaves caused by the wind.\n\"AAh Fresh Air\", You exclaim with an outbreathe as you drop down and lay your back on the tree.\nLooking up to see the suns rays passing through the trea leaves.\n You rest your head and before you know it, pass out...",
+    "This is still the cave but something seems different. Something feels different...\nYou get off the platform and walk into the surrounding darkness, this time the air seems to be covered in a red tint.\nYou continue walking, you go through a tunnel, then a hallway, then into a large square room lit by blue flames. The world turns purple.\nYou look up and feel your body's hairs all stand up and shiver down your spine.\nThree creeatures, humanoid in shape but definetly not human. They begin to chant and the sheer volume was enough to put you on your knees.\nThey appear to be giving you something but what could it be.\nYou feel a surge of power in your body and a new voice inside of you awakens...\nThis is too much. You pass out.",
+    ""
                         };
 
         public static void NameCharacter()
@@ -95,7 +95,8 @@ namespace AdventureGame
                     {
                         Console.WriteLine(PartOne[2]);
                         i++;
-                    }
+                                Inventory.Add("Umbrella");
+                            }
                     else
                     {
                         Console.WriteLine("I don't understand");
@@ -113,7 +114,7 @@ namespace AdventureGame
                 else if (input == "b" || input == "B")
                 {
                     Console.WriteLine(PartOne[5]);
-                            Inventory.Add("Umbrella");
+                            
                 }
                 //6
                 Console.WriteLine(PartOne[6]);
@@ -136,11 +137,13 @@ namespace AdventureGame
                             {
                                 Console.WriteLine(PartTwo[1]);
                                 i++;
+                                Inventory.Add("Blue dog balloon");
                             }
                             else if (input == "d" || input == "D")
                             {
                                 Console.WriteLine(PartTwo[2]);
                                 i++;
+                                Inventory.Add("Red cat balloon");
                             }
                             else
                             {
@@ -161,6 +164,9 @@ namespace AdventureGame
                         }
                         //6
                         Console.WriteLine(PartTwo[6]);
+                        Console.WriteLine("Press enter to continue");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
                         
                     case 3:
@@ -204,6 +210,9 @@ namespace AdventureGame
                         }
                         //6
                         Console.WriteLine(PartThree[6]);
+                        Console.WriteLine("Press enter to continue");
+                        Console.ReadKey();
+                        Console.Clear();
                         break;
             }
         }  
@@ -212,8 +221,17 @@ namespace AdventureGame
         public static void EndGame()
         {
             //end of gamer story text
-            Console.WriteLine("End of story text here.....");
-            Console.WriteLine(CharacterName + " These are the items you have acquired on your journey");
+            Console.WriteLine("You've reached the end of one journey, and the beggining of another!");
+            Console.WriteLine("" +
+               
+" _______  __   __  _______  __    _  ___   _    __   __  _______  __   __     ___             ___\n" +   
+"|       ||  | |  ||   _   ||  |  | ||   | | |  |  | |  ||       ||  | |  |   |   |           |   |  \n" +
+"|_     _||  |_|  ||  |_|  ||   |_| ||   |_| |  |  |_|  ||   _   ||  | |  |  |  _  |         |  _  | \n" +
+"  |   |  |       ||       ||       ||      _|  |       ||  | |  ||  |_|  |  |_| |_|         |_| |_| \n" +
+"  |   |  |       ||       ||  _    ||     |_   |_     _||  |_|  ||       |                          \n" +
+"  |   |  |   _   ||   _   || | |   ||    _  |    |   |  |       ||       |           _____          \n" +
+"  |___|  |__| |__||__| |__||_|  |__||___| |_|    |___|  |_______||_______|          |_____|         \n");
+            Console.WriteLine(CharacterName + " These are the items you have acquired on your journey:");
 
             Console.ForegroundColor = ConsoleColor.Yellow;
             foreach (string Item in Inventory)
@@ -222,19 +240,11 @@ namespace AdventureGame
             }
             Console.ResetColor();
 
-            if (Inventory.Contains("Key"))
-            {
-                Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("Congratulations you accomplished the goal! You found the key!");
-                Console.ResetColor();
-            }
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("You didn't find the special item, try again next time :)");
-                Console.ResetColor();
-            }
-            Console.WriteLine("Press enter to exit.");
+            Console.WriteLine("I hope you had fun " + CharacterName + " ^^");
+
+            Console.WriteLine("Please press enter to exit.");
+
+
         }
         
     }
